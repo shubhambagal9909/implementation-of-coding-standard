@@ -1,2 +1,2 @@
-# implementation-of-coding-standard
+tick tak to game
 simple project
